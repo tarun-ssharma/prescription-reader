@@ -7,3 +7,5 @@ Used technologies:
 2. opencv: to detect text
 3. selenium: For web automation
 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tarun-ssharma/prescription-reader/main?filepath=Practo%20prescription%20reader.ipynb)
